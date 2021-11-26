@@ -15,7 +15,7 @@ class ApiController {
 
         var tempUser : Users = Users()
 
-        val completeUrl = "https://secure.membook.fi/public-api/groups/9f52dfdf-c39e-4c35-8b03-bc4bbb9758b5/users"
+        val completeUrl = "####### - blocked for security reasons"
 
         val request = Request.Builder().url(completeUrl).build()
 
